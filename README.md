@@ -7,9 +7,14 @@
 ---
 
 ## 🚀 Projects
-- 🛒 [E-Commerce Web Application](#) (Next.js + Prisma)  
-- 🤖 [X-Ray Disease Classification](#) (YOLOv8 + Streamlit)  
-- 🛍️ [Marketplace Backend](#) (Node.js)  )  
+
+### 🛒 E-Commerce Web Application
+🔗 https://github.com/goktugbk/ecommerce-web-app  
+Tech: Next.js, Prisma  
+
+### 🩺 X-Ray Disease Classification
+🔗 https://github.com/goktugbk/yolov8-xray-classification  
+Tech: YOLOv8, Streamlit  
 
 ---
 
