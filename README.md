@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 Projects
-- 🛒 E-Commerce Web Application (Next.js + Prisma)  
-- 🤖 X-Ray Disease Classification (YOLOv8 + Streamlit)  
-- 🛍️ Marketplace Backend (Node.js)  
+- 🛒 [E-Commerce Web Application](#) (Next.js + Prisma)  
+- 🤖 [X-Ray Disease Classification](#) (YOLOv8 + Streamlit)  
+- 🛍️ [Marketplace Backend](#) (Node.js)  )  
 
 ---
 
