@@ -28,6 +28,16 @@ predictions and retrains on the corrected samples.
 **https://github.com/goktugbk/yolov8-xray-classification**
 `Python` `YOLOv8` `Ultralytics` `OpenCV` `Streamlit`
 
+### 🕒 DomainClock — domain health API
+A live API that checks what is actually wrong with a domain: SSL certificates, registration and
+WHOIS, DNS and email records, server, HTTP headers, subdomains and reputation. Free and paid
+surfaces are separated, listed on RapidAPI, and hardened with per-IP rate limiting, SSRF guards,
+an unguessable path prefix and CORS restrictions. Dockerised on Railway, frontend on Cloudflare
+Pages, Redis caching and Sentry on top.
+
+**https://domainclock.dev**
+`Python` `FastAPI` `Redis` `Docker` `Railway` `Cloudflare Pages`
+
 ### 🛒 E-Commerce Web Application
 **https://github.com/goktugbk/ecommerce-web-app**
 `Next.js` `Prisma`
@@ -37,9 +47,10 @@ predictions and retrains on the corrected samples.
 ## Tech
 
 **Machine learning** — PyTorch, YOLOv8 / Ultralytics, OpenCLIP, OpenCV, NumPy
+**Backend** — Python, FastAPI, Docker, Redis, Railway
 **Data** — SQLite, sqlite-vec, PostgreSQL, Prisma
-**Web** — Python, JavaScript, Node.js, Next.js, Streamlit
-**Tooling** — pytest, ruff, Git
+**Web** — JavaScript, Node.js, Next.js, Streamlit, Cloudflare Pages
+**Tooling** — pytest, ruff, Git, Sentry
 
 ---
 
